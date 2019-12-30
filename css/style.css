@@ -50,7 +50,7 @@ body {
 .header-content-sign-in a {
   border: 2px solid #8bc34a;
   border-radius: 100px;
-  padding: 8px 20px;
+  padding: 10px 15px;
 }
 
 .logo {
@@ -65,7 +65,7 @@ body {
 }
 
 .one-icon-header {
-  width: 15%;
+  width: 16%;
   text-align: center;
   color: #283238;
   font-size: 36px;
@@ -92,7 +92,7 @@ body {
   background-image: linear-gradient(to right, #429321, #b4ec51);
   border-radius: 100px;
   color: #ffffff;
-  padding: 8px 30px;
+  padding: 15.5px 47px;
   box-shadow: 1px 1px 2px #888888;
   text-transform: uppercase;
   font-size: 16px;
@@ -181,7 +181,7 @@ h3 {
 
 .one-content {
   align-items: center;
-  padding: 0 5%;
+  padding: 0 5.6%;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -271,7 +271,7 @@ h3 {
 }
 
 .one-customer {
-  width: 10%;
+  width: 11.4%;
 }
 
 .one-customer {

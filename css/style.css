@@ -16,10 +16,6 @@ body {
   background-size: cover;
 }
 
-.flex {
-  display: flex;
-}
-
 .flex-center {
   display: flex;
   justify-content: center;
@@ -27,8 +23,8 @@ body {
 }
 
 .header-content {
-  justify-content: flex-end;
-  padding: 2.5em 13em;
+  padding: 2.5em;
+  margin-left: 45em;
 }
 
 .header-content-about-us {
@@ -65,7 +61,7 @@ body {
 }
 
 .one-icon-header {
-  width: 16%;
+  width: 8em;
   text-align: center;
   color: #283238;
   font-size: 36px;
@@ -121,14 +117,13 @@ body {
   box-shadow: 0 5px 5px #999999;
 }
 
-.image-content {
-  width: 40%;
+.detail-content {
+  width: 555px;
   margin-right: 2em;
 }
 
-.detail-content {
-  width: 40%;
-  margin-right: 2em;
+.image-today-ilearnt {
+  margin-right: 30px;
 }
 
 .detail-today-ilearnt {
@@ -166,6 +161,10 @@ h3 {
   width: 100%;
 }
 
+.content {
+  width: 100%;
+}
+
 .content .start-now {
   padding-top: 2em;
 }
@@ -181,7 +180,7 @@ h3 {
 
 .one-content {
   align-items: center;
-  padding: 0 5.6%;
+  padding: 0 70px;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -233,6 +232,10 @@ h3 {
   box-shadow: 0px 5px 5px #999999;
 }
 
+.detail-customers {
+  margin: 0 0 40px 30px;
+}
+
 .list-one-member {
   display: flex;
   align-items: center;
@@ -253,15 +256,7 @@ h3 {
   color: #282828;
   margin-top: 1.5em;
   align-items: center;
-}
-
-.content-customers {
-  height: 35.6em;
-}
-
-.detail-customers {
-  width: 40%;
-  margin: 0 0 2em 1.5em;
+  width: 555px;
 }
 
 .content-our-customer {
@@ -271,7 +266,7 @@ h3 {
 }
 
 .one-customer {
-  width: 11.4%;
+  width: 150px;
 }
 
 .one-customer {
@@ -298,8 +293,10 @@ h3 {
 .detail-our-customer {
   display: flex;
   justify-content: center;
-  width: 55em;
-  margin-left: 20%;
+}
+
+.para-our-customer {
+  width: 46em;
 }
 
 .detail-our-customer p {
@@ -334,7 +331,7 @@ h3 {
 }
 
 .one-navbar {
-  padding: 0 2em;
+  width: 195px;
 }
 
 .one-navbar p {
@@ -363,7 +360,7 @@ h3 {
   font-size: 13px;
   color: #b4ec51;
   width: 5%;
-  padding: 1.5em;
+  padding: 1em;
 }
 
 .brand-icons:hover {

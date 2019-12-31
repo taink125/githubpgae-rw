@@ -312,9 +312,16 @@ h3 {
     letter-spacing: -0.03px;
 }
 
-.set-ti-more {
-    font-size: 20px;
-    color: white;
+.style-timore {
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgb(151, 151, 151);
+    border-radius: 50%;
+    margin: 15px 11px 0 11px;
+}
+
+.timore-first {
+    background-color: #ffffff;
 }
 
 .icon-our {
